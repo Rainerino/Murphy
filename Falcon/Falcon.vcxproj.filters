@@ -16,6 +16,8 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Falcon.ino" />
+    <None Include="lcd.ino" />
+    <None Include="receiver.ino" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="__vm\.Falcon.vsarduino.h">
